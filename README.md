@@ -2,7 +2,7 @@
 
 
 Welcome to my GitHub profile! 
-I'm a passionate backend developer. My expertise lies in **Django, Django Rest Framework**, and various other technologies that drive modern web development.**. I am an excellent problem solver who loves writing algorithms and building scalable applications.
+I'm a passionate backend developer. My expertise lies in **Django, Django Rest Framework**, and various other technologies that drive modern web development. I am an excellent problem solver who loves writing algorithms and building scalable applications.
 
 ## 🔧 Technologies & Tools
 
